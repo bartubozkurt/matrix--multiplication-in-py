@@ -22,3 +22,9 @@ for i in range(len(X)):
             result[i][j] += X[i][k] * Y[k][j]
 for r in result:
     print(r)
+"""    
+    OUTPUT:
+[114, 160, 60, 27]
+[74, 97, 73, 14]
+[119, 157, 112, 23]
+"""
